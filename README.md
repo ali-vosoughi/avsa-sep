@@ -12,25 +12,6 @@ For a detailed exploration of our approach and findings, consult our paper:
 
 Authors: Yiyang Su, Ali Vosoughi, Shijian Deng, Yapeng Tian, Chenliang Xu.
 
-## Installation
-
-Ensure you have Python 3.8 or later installed. Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/ali-vosoughi/avsa-sep.git
-cd avsa-sep
-pip install -r requirements.txt
-```
-
-## Usage
-
-After installation, you can use the following command to separate sounds from an input video:
-
-```bash
-python separate_sounds.py --input_video ./path/to/video.mp4 --output_audio ./path/to/output.wav
-```
-
-Replace `./path/to/video.mp4` with the path to your input video file and `./path/to/output.wav` with the desired output audio file path.
 
 ## Contributing
 
